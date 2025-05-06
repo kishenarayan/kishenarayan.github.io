@@ -1,5 +1,5 @@
 ---
-date: '2025-05-5'
+date: '2025-05-05'
 draft: false
 tags: ['LaTeX','Typesetting', Photos]
 title: 'Test'
