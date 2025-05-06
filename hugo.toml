@@ -1,0 +1,4 @@
+baseURL = 'https://kishenarayan.github.io/'
+languageCode = 'en-us'
+title = 'kishen'
+theme = 'drishtikon'
