@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kishen</title>
-    <link>http://localhost:54518/posts/</link>
+    <link>http://localhost:55140/posts/</link>
     <description>Recent content in Posts on kishen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54518/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55140/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:54518/posts/test/</link>
+      <link>http://localhost:55140/posts/test/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/posts/test/</guid>
+      <guid>http://localhost:55140/posts/test/</guid>
       <description>&lt;p&gt;This is a test&lt;/p&gt;</description>
     </item>
   </channel>

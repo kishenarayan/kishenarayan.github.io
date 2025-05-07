@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-Dev on kishen</title>
-    <link>http://localhost:54518/tags/web-dev/</link>
+    <link>http://localhost:55140/tags/web-dev/</link>
     <description>Recent content in Web-Dev on kishen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54518/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55140/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Example</title>
-      <link>http://localhost:54518/writings/projectexample/</link>
+      <link>http://localhost:55140/writings/projectexample/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/writings/projectexample/</guid>
+      <guid>http://localhost:55140/writings/projectexample/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a &lt;!-- raw HTML omitted --&gt;link&lt;!-- raw HTML omitted --&gt; inside a summary. Link your personal projects!&lt;/p&gt;</description>
     </item>
   </channel>

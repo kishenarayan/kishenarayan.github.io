@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kishen</title>
-    <link>http://localhost:54518/tags/</link>
+    <link>http://localhost:55140/tags/</link>
     <description>Recent content in Tags on kishen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54518/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55140/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:54518/tags/latex/</link>
+      <link>http://localhost:55140/tags/latex/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/latex/</guid>
+      <guid>http://localhost:55140/tags/latex/</guid>
       <description></description>
     </item>
     <item>
       <title>Photos</title>
-      <link>http://localhost:54518/tags/photos/</link>
+      <link>http://localhost:55140/tags/photos/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/photos/</guid>
+      <guid>http://localhost:55140/tags/photos/</guid>
       <description></description>
     </item>
     <item>
       <title>Typesetting</title>
-      <link>http://localhost:54518/tags/typesetting/</link>
+      <link>http://localhost:55140/tags/typesetting/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/typesetting/</guid>
+      <guid>http://localhost:55140/tags/typesetting/</guid>
       <description></description>
     </item>
     <item>
       <title>Algebraic Geometry</title>
-      <link>http://localhost:54518/tags/algebraic-geometry/</link>
+      <link>http://localhost:55140/tags/algebraic-geometry/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/algebraic-geometry/</guid>
+      <guid>http://localhost:55140/tags/algebraic-geometry/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:54518/tags/algorithms/</link>
+      <link>http://localhost:55140/tags/algorithms/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/algorithms/</guid>
+      <guid>http://localhost:55140/tags/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathematics</title>
-      <link>http://localhost:54518/tags/mathematics/</link>
+      <link>http://localhost:55140/tags/mathematics/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/mathematics/</guid>
+      <guid>http://localhost:55140/tags/mathematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Stacks</title>
-      <link>http://localhost:54518/tags/stacks/</link>
+      <link>http://localhost:55140/tags/stacks/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/stacks/</guid>
+      <guid>http://localhost:55140/tags/stacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Animation</title>
-      <link>http://localhost:54518/tags/animation/</link>
+      <link>http://localhost:55140/tags/animation/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/animation/</guid>
+      <guid>http://localhost:55140/tags/animation/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphics</title>
-      <link>http://localhost:54518/tags/graphics/</link>
+      <link>http://localhost:55140/tags/graphics/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/graphics/</guid>
+      <guid>http://localhost:55140/tags/graphics/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:54518/tags/education/</link>
+      <link>http://localhost:55140/tags/education/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/education/</guid>
+      <guid>http://localhost:55140/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Web-Dev</title>
-      <link>http://localhost:54518/tags/web-dev/</link>
+      <link>http://localhost:55140/tags/web-dev/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54518/tags/web-dev/</guid>
+      <guid>http://localhost:55140/tags/web-dev/</guid>
       <description></description>
     </item>
   </channel>
