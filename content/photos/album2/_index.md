@@ -1,3 +1,3 @@
 ---
-title: "Album 2"
+title: "album 2"
 ---
