@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algebraic Geometry on kishen</title>
-    <link>http://localhost:55140/tags/algebraic-geometry/</link>
+    <link>http://localhost:58201/tags/algebraic-geometry/</link>
     <description>Recent content in Algebraic Geometry on kishen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55140/tags/algebraic-geometry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58201/tags/algebraic-geometry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Paper</title>
-      <link>http://localhost:55140/writings/firstpaper/</link>
+      <link>http://localhost:58201/writings/firstpaper/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55140/writings/firstpaper/</guid>
+      <guid>http://localhost:58201/writings/firstpaper/</guid>
       <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;%22https://arxiv.org/%22&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;%22https://scholar.google.com/%22&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Paper</title>
-      <link>http://localhost:55140/writings/papertest/</link>
+      <link>http://localhost:58201/writings/papertest/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55140/writings/papertest/</guid>
+      <guid>http://localhost:58201/writings/papertest/</guid>
       <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;%22https://arxiv.org/%22&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;%22https://scholar.google.com/%22&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
   </channel>
