@@ -5,5 +5,5 @@ category: "projects"
 tags: ["web-dev", "education"]
 ---
 
-Here's a <a href = "https://example.com">link</a> inside a summary. Link your personal projects! 
+Here's a [link](www.example.com) inside a summary. Link your personal projects! 
 
